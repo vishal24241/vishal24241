@@ -1,5 +1,5 @@
 # 💫 About Me:
-make this unique AI Engineer in the making | Exploring machine learning, deep learning, and NLP | Building projects to turn data into intelligent solutions 🤖
+AI Engineer in the making | Exploring machine learning, deep learning, and NLP | Building projects to turn data into intelligent solutions 🤖
 
 
 ## 🌐 Socials:
