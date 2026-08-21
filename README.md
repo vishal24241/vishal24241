@@ -1,6 +1,5 @@
 # ⚡ About Me⚡   
-AI Engineer in the making | Exploring machine learning, deep learning, and NLP | Building projects to turn data into intelligent solutions 🤖
-
+AI Engineer | Machine Learning & Generative AI | Exploring LLMs, RAG & AI Agents | Building Intelligent, Production-Ready AI Solutions 🤖
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishal10820) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalkumar108247) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:v94649680@gmail.com) 
