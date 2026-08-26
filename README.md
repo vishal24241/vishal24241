@@ -32,16 +32,13 @@
 
 ---
 
+## 📊 GitHub Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishal24241&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vishal24241&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishal24241&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal24241&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=vishal24241&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer)
